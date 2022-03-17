@@ -5,7 +5,7 @@
   <b> ╔»⟦★⟧«╗ 𝗕𝗘𝗔𝗦𝗧 𝗕𝗢𝗧 𝗛𝗘𝗥𝗘 𝗧𝗛𝗘 𝗕𝗢𝗧 𝗜𝗦 𝗛𝗔𝗩𝗜𝗡𝗚 𝗔𝗟𝗢𝗧 𝗙𝗘𝗔𝗨𝗧𝗨𝗥𝗘 𝗧𝗛𝗘 𝗕𝗢𝗧 𝗖𝗔𝗡 𝗖𝗥𝗘𝗔𝗧𝗘 𝟯𝟬 𝗕𝗢𝗧𝗦 𝗔𝗧 𝗔 𝗧𝗜𝗠𝗘 ╔»⟦★⟧«╗.</b>
 </h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/f7ac726b4f766ee4345c5.jpg" alt="ROYAL ZAB">
+  <img src="https://te.legra.ph/file/f7ac726b4f766ee4345c5.jpg" alt="ROOD BHAI">
 </p>
 
 
