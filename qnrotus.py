@@ -87,7 +87,7 @@ SEMX_USERS = [658876201, 2092103173, 5138767016]
 for x in SUDO:
     SEMX_USERS.append(x)
     
-async def start_royalzab():
+async def start_roodbhai():
     global str1
     global str2
     global str3
