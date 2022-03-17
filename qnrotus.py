@@ -87,7 +87,7 @@ SEMX_USERS = [658876201, 2092103173, 5138767016]
 for x in SUDO:
     SEMX_USERS.append(x)
     
-async def start_roodbhai():
+async def start_royalzab():
     global str1
     global str2
     global str3
@@ -129,8 +129,8 @@ async def start_roodbhai():
             print("Booting Up The Client 1")
             await str1.start()
             botme = await str1.get_me()
-            await str1(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str1(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str1(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str1(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
         except Exception as e:
@@ -155,8 +155,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 2")
             await str2.start()
-            await str2(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str2(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str2(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str2(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str2.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -182,8 +182,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 3")
             await  str3.start()
-            await str3(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str3(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str3(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str3(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str3.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -209,8 +209,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 4")
             await str4.start()
-            await str4(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str4(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str4(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str4(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str4.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -236,8 +236,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 5")
             await str5.start()
-            await str5(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str5(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str5(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str5(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str5.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -263,8 +263,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 6")
             await str6.start()
-            await str6(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str6(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str6(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str6(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str6.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -290,8 +290,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 7")
             await str7.start()
-            await str7(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str7(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str7(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str7(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str7.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -317,8 +317,8 @@ async def start_roodbhai():
         try:
             print("Booting Up The Client 8")
             await str8.start()
-            await str8(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str8(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str8(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str8(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str8.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
