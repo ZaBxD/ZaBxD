@@ -87,7 +87,7 @@ SEMX_USERS = [658876201, 2092103173, 5138767016]
 for x in SUDO:
     SEMX_USERS.append(x)
     
-async def start_royalbhai():
+async def start_roodbhai():
     global str1
     global str2
     global str3
@@ -932,7 +932,7 @@ async def start_royalbhai():
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
 #####################################
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_royalbhai())       
+loop.run_until_complete(start_roodbhai())       
 
 async def gifspam(e, smex):
     try:
