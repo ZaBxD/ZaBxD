@@ -344,8 +344,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 9")
             await str10.start()
-            await str10(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str10(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str10(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str10(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str10.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -371,8 +371,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 10")
             await str9.start()
-            await str9(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str9(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str9(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str9(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str9.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -399,8 +399,8 @@ async def start_royalzab():
             print("Booting Up The Client 11")
             await str11.start()
             botme = await str11.get_me()
-            await str11(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str11(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str11(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str11(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
         except Exception as e:
@@ -425,8 +425,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 12")
             await str12.start()
-            await str12(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str12(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str12(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str12(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str12.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -452,8 +452,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 13")
             await  str13.start()
-            await str13(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str13(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str13(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str13(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str13.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -479,8 +479,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 14")
             await str14.start()
-            await str14(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str14(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str14(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str14(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str14.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -506,8 +506,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 15")
             await str15.start()
-            await str15(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str15(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str15(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str15(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str15.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -533,8 +533,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 16")
             await str16.start()
-            await str16(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str16(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str16(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str16(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str16.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -560,8 +560,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 17")
             await str17.start()
-            await str17(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str17(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str17(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str17(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str17.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -587,8 +587,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 18")
             await str18.start()
-            await str18(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str18(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str18(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str18(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str18.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -614,8 +614,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 19")
             await str19.start()
-            await str19(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str19(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str19(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str19(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str19.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -641,8 +641,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 20")
             await str20.start()
-            await str20(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str20(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str20(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str20(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str20.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -669,8 +669,8 @@ async def start_royalzab():
             print("Booting Up The Client 21")
             await str21.start()
             botme = await str21.get_me()
-            await str21(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str21(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str21(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str21(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
         except Exception as e:
@@ -695,8 +695,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 22")
             await str22.start()
-            await str22(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str22(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str22(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str22(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str22.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -722,8 +722,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 23")
             await  str23.start()
-            await str23(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str23(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str23(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str23(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str23.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -749,8 +749,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 24")
             await str24.start()
-            await str24(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str24(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str24(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str24(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str24.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -776,8 +776,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 25")
             await str25.start()
-            await str25(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str25(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str25(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str25(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str25.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -803,8 +803,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 26")
             await str26.start()
-            await str26(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str26(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str26(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str26(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str26.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -830,8 +830,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 27")
             await str27.start()
-            await str27(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str27(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str27(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str27(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str27.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -857,8 +857,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 28")
             await str28.start()
-            await str28(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str28(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str28(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str28(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str28.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -884,8 +884,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 29")
             await str29.start()
-            await str29(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str29(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str29(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str29(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str29.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -911,8 +911,8 @@ async def start_royalzab():
         try:
             print("Booting Up The Client 30")
             await str30.start()
-            await str30(functions.channels.JoinChannelRequest(channel="@QNROTUSCHAT"))
-            await str30(functions.channels.JoinChannelRequest(channel="@QNR_OTUS"))
+            await str30(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
+            await str30(functions.channels.JoinChannelRequest(channel="@ROYALXSTORE"))
             botme = await str30.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SEMX_USERS.append(botid)
@@ -982,7 +982,7 @@ async def gifspam(e, smex):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.join"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.join"))       
 async def _(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗝𝗼𝗶𝗻×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.join <Public Channel or Group Link/Username>"
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ \n\n╚»𓆩𝗝𝗢𝗜𝗡メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝ \n ╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦𓆪«╝ \n\n.join <Public Channel or Group Link/Username>"
     if e.sender_id in SEMX_USERS:
         roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
@@ -991,7 +991,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("S𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 J𝙾𝙸𝙽𝙴𝙳 !!!\n•[][] 〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄")
+                await event.edit("S𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 J𝙾𝙸𝙽𝙴𝙳 !!!\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1030,7 +1030,7 @@ async def _(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.pjoin"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.pjoin"))        
 async def _(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗝𝗼𝗶𝗻×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.pjoin <Private Channel or Group's access hash>\n\nExample :\nLink = https://t.me/joinchat/HGYs1wvsPUplMmM1\n\n.pjoin HGYs1wvsPUplMmM1"
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ \n\n╚»𓆩𝗣𝗥𝗜𝗩𝗔𝗧𝗘𝗝𝗢𝗜𝗡メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.pjoin <Private Channel or Group's access hash>\n\nExample :\nLink = https://t.me/+1nLEDA1_CK9lNTM9\n\n.pjoin +1nLEDA1_CK9lNTM9"
     if e.sender_id in SEMX_USERS:
         roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
@@ -1039,7 +1039,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("S𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 J𝙾𝙸𝙽𝙴𝙳 !!!\n•[][] 〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄")
+                await event.edit("S𝚄𝙲𝙲𝙴𝚂𝙵𝚄𝙻𝙻𝚈 J𝙾𝙸𝙽𝙴𝙳 !!!\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1078,7 +1078,7 @@ async def _(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.leave"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.leave"))       
 async def _(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗟𝗲𝗮𝘃𝗲×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.leave <Channel or Chat ID>"
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝\n\n╚»𓆩𝗟𝗘𝗔𝗩𝗘メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.leave <Channel or Chat ID>"
     if e.sender_id in SEMX_USERS:
         roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
@@ -1088,7 +1088,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("S𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 L𝙴𝙵𝚃 !!\n•[][] 〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄")
+                await event.edit("S𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 L𝙴𝙵𝚃 !!\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1127,7 +1127,7 @@ async def _(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 async def spam(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.spam <count> <message to spam>\n\n.spam <count> <reply to a message>\n\nCount must be a integer."
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ 〄\n\n╚»𓆩𝗦𝗣𝗔𝗠メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.spam <count> <message to spam>\n\n.spam <count> <reply to a message>\n\nCount must be a integer."
     error = "Spam Module can only be used till 100 count. For bigger spams use BigSpam."
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -1189,7 +1189,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.delayspam"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.delayspam"))
 async def spam(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗗𝗲𝗹𝗮𝘆𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.delayspam <sleep time> <count> <message to spam>\n\n.delayspam <sleep time> <count> <reply to a message>\n\nCount and Sleeptime must be a integer."
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ \n\n╚»𓆩𝗗𝗘𝗟𝗔𝗬𝗦𝗣𝗔𝗠メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.delayspam <sleep time> <count> <message to spam>\n\n.delayspam <sleep time> <count> <reply to a message>\n\nCount and Sleeptime must be a integer."
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1259,7 +1259,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.bigspam"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.bigspam"))
 async def spam(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗕𝗶𝗴𝗦𝗽𝗮𝗺×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.bigspam <count> <message to spam>\n\n.bigspam <count> <reply to a message>\n\nCount must be a integer."
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ 〄\n\n╚»𓆩𝗕𝗜𝗚𝗦𝗣𝗔𝗠メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.bigspam <count> <message to spam>\n\n.bigspam <count> <reply to a message>\n\nCount must be a integer."
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1325,7 +1325,7 @@ async def spam(e):
 @str29.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
 async def spam(e):
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗥𝗮𝗶𝗱×××】\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝\n\n╚»𓆩𝗥𝗔𝗜𝗗メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1441,7 +1441,7 @@ async def _(event):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
 async def _(e):
     global que
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱×××】\n\n【﻿𝘾𝙤𝙢𝙢𝙖𝙣𝙙 :】\n\n.replyraid <Username of User>\n\n.replyraid <reply to a User>"
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝\n\n╚»𓆩𝗥𝗘𝗣𝗟𝗬𝗥𝗔𝗜𝗗メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.replyraid <Username of User>\n\n.replyraid <reply to a User>"
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1504,7 +1504,7 @@ async def _(e):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 async def _(e):
     global que
-    usage = "〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄\n\n【﻿×××𝗗𝗲𝗮𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗥𝗲𝗽𝗹𝘆𝗥𝗮𝗶𝗱×××】\n【﻿Command :】\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
+    usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ 〄\n\n╚»𓆩𝗗𝗘𝗔𝗖𝗧𝗜𝗩𝗘 𝗥𝗘𝗣𝗟𝗬 𝗥𝗔𝗜𝗗メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.dreplyraid <Username of User>\n\n.dreplyraid <reply to a User>"
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1570,11 +1570,11 @@ async def _(e):
 async def alive(e):
     if e.sender_id in SEMX_USERS:
         start = datetime.now()
-        text = "🤖 I Aᴍ Sᴛɪʟʟ Aʟɪᴠᴇ !!!!\n•[][] 〄 ╚»⟦𓆩ᏒⲞⲞD𓆪⟧«╝ SᑭᗩᗰᗷOT 〄"
+        text = "╚»𓆩𝗛𝗨𝗞𝗨𝗠メ𝗠𝗘𝗥𝗘𝗔𝗞𝗔𓆪«╝ !!!!\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🤖 I Aᴍ Sᴛɪʟʟ Aʟɪᴠᴇ !!!!\n`{ms}` 𝗺𝘀\n•[][] 〄 ╚»⟦𓆩ᏒⲞⲞD𓆪⟧«╝ SᑭᗩᗰᗷOT 〄")
+        await event.edit(f"╚»𓆩𝗣𝗬𝗔𝗥𝗘メ𝗠𝗔𝗟𝗜𝗞𓆪«╝!!!!\n`{ms}` 𝗺𝘀\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝")
 #####################################
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
 #####################################
@@ -1610,7 +1610,7 @@ async def alive(e):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.repo"))
 async def repo(e):
     if e.sender_id in SEMX_USERS:
-       text = "〄 ╚»⟦𓆩ᏒⲞⲞᗪ𓆪⟧«╝ SᑭᗩᗰᗷOT 〄\n┏━━━━━━━━━━━━━━━━━━━\n┣➣ Sᴜᴘᴘᴏʀᴛ : [ᒍOIᑎ] @TeamRoodChat\n┣➣ Cʀᴇᴀᴛᴇʀ : [ᖇOOᗪ OᗯᑎEᖇ] @Rood_Gamer_Owner)\n┣➣ Rᴇᴩᴏ : [TYᑭE] OC PRIVATE\n┗━━━━━━━━━━━━━━━━━━━"
+       text = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ 〄\n┏━━━━━━━━━━━━━━━━━━━\n┣➣ Sᴜᴘᴘᴏʀᴛ : [ᒍOIᑎ] @ROYALXSTORE\n┣➣ Cʀᴇᴀᴛᴇʀ : [OᗯᑎEᖇ] @ROYALZAB)\n┣➣ Rᴇᴩᴏ : [TYᑭE] OC PRIVATE\n┗━━━━━━━━━━━━━━━━━━━"
        await e.reply(text, parse_mode=None, link_preview=None )        
 #####################################
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
@@ -1648,11 +1648,11 @@ async def repo(e):
 async def ping(e):
     if e.sender_id in SEMX_USERS:
         start = datetime.now()
-        text = "🤖 I Aᴍ Sᴛɪʟʟ Aʟɪᴠᴇ !!!!\n•[][] 〄 ╚»⟦𓆩ᏒⲞⲞD𓆪⟧«╝ SᑭᗩᗰᗷOT 〄"
+        text = "╚»𓆩𝗝𝗜𝗜メ𝗠𝗔𝗟𝗜𝗞𓆪«╝!!!!\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🤖 I Aᴍ Sᴛɪʟʟ Aʟɪᴠᴇ !!!!\n`{ms}` 𝗺𝘀\n•[][] 〄 ╚»⟦𓆩ᏒⲞⲞD𓆪⟧«╝ SᑭᗩᗰᗷOT 〄")       
+        await event.edit(f"╚»𓆩𝗔𝗕𝗛𝗜メ𝗝𝗜𝗡𝗗𝗔𝗛𝗔𝗜𝗛𝗔𝗠𓆪«╝ !!!!\n`{ms}` 𝗺𝘀\n•[][] ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝")       
 #####################################
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
 #####################################
@@ -1688,7 +1688,7 @@ async def ping(e):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.restart"))
 async def restart(e):
     if e.sender_id in SEMX_USERS:
-        text = "【﻿ＲＥＳＴＡＲＴＩＮＧ】!!!\nPʟᴇᴀꜱᴇ Wᴀɪᴛ Tɪʟʟ lᴛ Rᴇʙᴏᴏᴛꜱ...\n•[][] 〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄"
+        text = "【﻿ＲＥＳＴＡＲＴＩＮＧ】!!!\nPʟᴇᴀꜱᴇ Wᴀɪᴛ Tɪʟʟ lᴛ Rᴇʙᴏᴏᴛꜱ...\n•[][] 𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝"
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await str1.disconnect()
@@ -1847,20 +1847,20 @@ async def restart(e):
 @str30.on(events.NewMessage(incoming=True, pattern=r"\.help"))
 async def help(e):
     if e.sender_id in SEMX_USERS:
-       text = "〄 ╚»⟦𓆩ᏒⲞⲞᗪ𓆪⟧«╝ SᑭᗩᗰᗷOT 〄\n\n👑 ᏟϴᎷᎷᎪΝᎠՏ 👑\n༒.alive\n༒.restart\n༒.join\n༒.leave\n༒.pjoin\n༒.spam\n༒.bigspam\n༒.delayspam\n༒.raid\n༒.replyraid\n༒.dreplyraid\n༒.repo\n┏━━━━━━━━━━━━━━━━━━━\n┣➣ Sᴜᴘᴘᴏʀᴛ : [ᒍOIᑎ] @TeamRoodChat\n┣➣ Cʀᴇᴀᴛᴇʀ : [ᖇOOᗪ OᗯᑎEᖇ] @Rood_Gamer_Owner)\n┗━━━━━━━━━━━━━━━━━━━ "
+       text = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ 〄\n\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦𓆪«╝\n╚»𓆩.alive𓆪«╝\n╚»𓆩.restart𓆪«╝\n╚»𓆩.join𓆪«╝\n╚»𓆩.leave𓆪«╝\n╚»𓆩.pjoin𓆪«╝\n╚»𓆩.spam𓆪«╝\n╚»𓆩.bigspam𓆪«╝\n╚»𓆩.delayspam𓆪«╝\n╚»𓆩.raid𓆪«╝\n༒╚»𓆩.replyraid𓆪«╝\n╚»𓆩.dreplyraid𓆪«╝\n╚»𓆩.repo\n https://github.com/ZaBxD/ZaBxD\n┣➣ : [ᒍOIᑎ] @ROYALXSTORE\n┣➣ : [OᗯᑎEᖇ] @ROYALZAB)\n┗━━━━━━━━━━━━━━━━━━━ "
        await e.reply(text, parse_mode=None, link_preview=None )
 #####################################
-#####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
+#####################################                                                                                                                                                                                                                                                                                                                                                                                                                    
 #####################################
 text = """.....OK BHAI OKAY DEPLOY HOGAYA...."""
 #####################################
-#####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
+#####################################                                                                                                                                                                                                                                                                                                                                                                                                                    
 #####################################
 print(text)
 print("")
 print("DONE! 〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄 STARTED.\nNOW ADD YOUR SPAMMERBOT IN ONE GROUP THEM TYPE .alive With Sudo Account")
 #####################################
-#####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
+#####################################                                                                                                                                                                                                                                                                                                                                                                                                                     
 #####################################
 if len(sys.argv) not in (1, 3, 4):
     try:
