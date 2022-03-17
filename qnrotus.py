@@ -87,7 +87,7 @@ SEMX_USERS = [658876201, 2092103173, 5138767016]
 for x in SUDO:
     SEMX_USERS.append(x)
     
-async def start_roodbhai())
+async def start_royalbhai():
     global str1
     global str2
     global str3
@@ -932,7 +932,7 @@ async def start_roodbhai())
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
 #####################################
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_roodbhai())       
+loop.run_until_complete(start_royalbhai())       
 
 async def gifspam(e, smex):
     try:
@@ -1858,7 +1858,7 @@ text = """.....OK BHAI OKAY DEPLOY HOGAYA...."""
 #####################################
 print(text)
 print("")
-print("DONE! 〄 ╚»𓆩⟦ᏒⲞⲞD⟧𓆪«╝ SᑭᗩᗰᗷOT 〄 STARTED.\nNOW ADD YOUR SPAMMERBOT IN ONE GROUP THEM TYPE .alive With Sudo Account")
+print("DONE! ╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ STARTED.\nNOW ADD YOUR BOT IN ONE GROUP THEM TYPE .alive With Sudo Account")
 #####################################
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                     
 #####################################
