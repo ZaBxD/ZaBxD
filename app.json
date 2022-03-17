@@ -1,10 +1,10 @@
 
 {
-  "name": "♛ ╔»⟦★𝗤𝗡𝗥★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT ♛",
-  "description": "A Powerful Telegram SpammerBot based on telethon.",
-  "website": "https://t.me/Qnr_Otus",
-  "repository": "https://github.com/QnrOtus/QnrOfficial",
-  "logo": "https://telegra.ph/file/1ecd72d276cfffb731ee0.jpg",
+  "name": "♛ ╔»⟦★⟧«╗ 『𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧』 ♛",
+  "description": "A Powerful Telegram based on telethon.",
+  "website": "https://t.me/ROYALxSTORE",
+  "repository": "https://github.com/ZaBxD/ZaBxD",
+  "logo": "https://te.legra.ph/file/f7ac726b4f766ee4345c5.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -173,7 +173,7 @@
       },
       "SUDO": {
         "description": "Fill all Sudo Users Id",
-        "value": "2092103173",
+        "value": "1848105701",
         "required": true
       }
   },
