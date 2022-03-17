@@ -87,7 +87,7 @@ SEMX_USERS = [658876201, 2092103173, 5138767016]
 for x in SUDO:
     SEMX_USERS.append(x)
     
-async def start_roodbhai():
+async def start_royalbhai():
     global str1
     global str2
     global str3
@@ -932,7 +932,7 @@ async def start_roodbhai():
 #####################################                                                                                                                                                                                                                                                                                                                                                                                                                    #Rood 
 #####################################
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_roodbhai())       
+loop.run_until_complete(start_royalbhai())       
 
 async def gifspam(e, smex):
     try:
@@ -984,9 +984,9 @@ async def gifspam(e, smex):
 async def _(e):
     usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ \n\n╚»𓆩𝗝𝗢𝗜𝗡メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝ \n ╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦𓆪«╝ \n\n.join <Public Channel or Group Link/Username>"
     if e.sender_id in SEMX_USERS:
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
-            bc = roodbhai[0]
+            bc = royalbhai[0]
             text = "J𝙾𝙸𝙽𝙸𝙽𝙶..."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
@@ -1032,9 +1032,9 @@ async def _(e):
 async def _(e):
     usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝ \n\n╚»𓆩𝗣𝗥𝗜𝗩𝗔𝗧𝗘𝗝𝗢𝗜𝗡メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.pjoin <Private Channel or Group's access hash>\n\nExample :\nLink = https://t.me/+1nLEDA1_CK9lNTM9\n\n.pjoin +1nLEDA1_CK9lNTM9"
     if e.sender_id in SEMX_USERS:
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
-            bc = roodbhai[0]
+            bc = royalbhai[0]
             text = "L𝙴𝙰𝚅𝙸𝙽𝙶...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
@@ -1080,9 +1080,9 @@ async def _(e):
 async def _(e):
     usage = "╚»𓆩𝗥𝗢𝗬𝗔𝗟メ𝗕𝗢𝗧𓆪«╝\n\n╚»𓆩𝗟𝗘𝗔𝗩𝗘メ𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n╚»𓆩𝗖𝗢𝗠𝗠𝗔𝗡𝗗𓆪«╝\n\n.leave <Channel or Chat ID>"
     if e.sender_id in SEMX_USERS:
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
-            bc = roodbhai[0]
+            bc = royalbhai[0]
             bc = int(bc)
             text = "L𝙴𝙰𝚅𝙸𝙽𝙶....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
@@ -1132,11 +1132,11 @@ async def spam(e):
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
-        if len(roodbhai) == 2:
-            message = str(roodbhai[1])
-            counter = int(roodbhai[0])
+        if len(royalbhai) == 2:
+            message = str(royalbhai[1])
+            counter = int(royalbhai[0])
             if counter > 1000:
                 return await e.reply(error, parse_mode=None, link_preview=None )
             await asyncio.wait([e.respond(message) for i in range(counter)])
@@ -1194,12 +1194,12 @@ async def spam(e):
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
         smex = await e.get_reply_message()
-        roodbhai = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
-        roodbhaisexy = roodbhai[1:]
-        if len(roodbhaisexy) == 2:
-            message = str(roodbhaisexy[1])
-            counter = int(roodbhaisexy[0])
-            sleeptime = float(roodbhai[0])
+        royalbhai = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
+        royalbhaisexy = royalbhai[1:]
+        if len(royalbhaisexy) == 2:
+            message = str(royalbhaisexy[1])
+            counter = int(royalbhaisexy[0])
+            sleeptime = float(royalbhai[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     if e.reply_to_msg_id:
@@ -1208,8 +1208,8 @@ async def spam(e):
                         await e.client.send_message(e.chat_id, message)
                     await asyncio.sleep(sleeptime)
         elif e.reply_to_msg_id and smex.media:  
-            counter = int(roodbhaisexy[0])
-            sleeptime = float(roodbhai[0])
+            counter = int(royalbhaisexy[0])
+            sleeptime = float(royalbhai[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "document"):
                     smex = await e.client.send_file(e.chat_id, smex, caption=smex.text)
@@ -1217,8 +1217,8 @@ async def spam(e):
                 await asyncio.sleep(sleeptime)
         elif e.reply_to_msg_id and smex.text:
             message = smex.text
-            counter = int(roodbhaisexy[0])
-            sleeptime = float(roodbhai[0])
+            counter = int(royalbhaisexy[0])
+            sleeptime = float(royalbhai[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, message)
@@ -1263,9 +1263,9 @@ async def spam(e):
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
-        if len(roodbhai) == 2:
+        if len(royalbhai) == 2:
             message = str(roodbhai[1])
             counter = int(roodbhai[0])
             for _ in range(counter):
@@ -1276,7 +1276,7 @@ async def spam(e):
                         await e.client.send_message(e.chat_id, message)
                     await asyncio.sleep(0.0)
         elif e.reply_to_msg_id and smex.media:  
-            counter = int(roodbhai[0])
+            counter = int(royalbhai[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "document"):
                     smex = await e.client.send_file(e.chat_id, smex, caption=smex.text)
@@ -1284,7 +1284,7 @@ async def spam(e):
                 await asyncio.sleep(0.0)  
         elif e.reply_to_msg_id and smex.text:
             message = smex.text
-            counter = int(roodbhai[0])
+            counter = int(royalbhai[0])
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, message)
@@ -1329,10 +1329,10 @@ async def spam(e):
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
         if len(roodbhai) == 2:
-            message = str(roodbhai[1])
+            message = str(royalbhai[1])
             print(message)
             a = await e.client.get_entity(message)
             g = a.id
@@ -1350,7 +1350,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             c = b.first_name
-            counter = int(roodbhai[0])
+            counter = int(royalbhai[0])
             username = f"[{c}](tg://user?id={g})"
             for _ in range(counter):
                 reply = random.choice(RAID)
@@ -1445,10 +1445,10 @@ async def _(e):
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
         if len(e.text) > 11:
-            message = str(roodbhai[0])
+            message = str(royalbhai[0])
             a = await e.client.get_entity(message)
             g = a.id
             que[g] = []
@@ -1508,10 +1508,10 @@ async def _(e):
     if e.sender_id in SEMX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
             return await e.reply(usage, parse_mode=None, link_preview=None )
-        roodbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
+        royalbhai = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         smex = await e.get_reply_message()
         if len(e.text) > 12:
-            message = str(roodbhai[0])
+            message = str(royalbhai[0])
             a = await e.client.get_entity(message)
             g = a.id
             try:
